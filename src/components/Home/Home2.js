@@ -26,7 +26,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Python, Javascript and Machine Learning.{" "}
+                  Javascript, Nodejs, Python and Machine Learning.{" "}
                 </b>
               </i>
               <br />
